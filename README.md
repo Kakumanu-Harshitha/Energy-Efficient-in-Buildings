@@ -141,19 +141,19 @@ Root Mean Squared Error (RMSE): 0.03943870981638877
 
 R-squared (R2): 0.9768571973544165
 
-References:
+# References:
 
 Reference from kaggle: https://www.kaggle.com/datasets/ahmettademir/enb2012
 
-Requirements:
+# Requirements:
 Pandas
 Numpy
 Matplotlib 
 tensorflow 
 keras
 
-programming languages:
+# programming languages:
 Python
 
-owner:
+# owner:
 Kakumanu-Harshitha
