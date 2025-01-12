@@ -114,7 +114,8 @@ splitting into train and test data
 
   e.Gradient Boost Regression
 
-  f.Polynomial Regression **
+  f.Polynomial Regression 
+  
 6.Model Performance Metrics Overview
 
 7.Best Algorithm Selection
