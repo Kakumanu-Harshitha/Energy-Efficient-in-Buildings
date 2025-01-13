@@ -142,7 +142,6 @@ Root Mean Squared Error (RMSE): 0.03943870981638877
 R-squared (R2): 0.9768571973544165
 
 # References:
-
 Reference from kaggle: https://www.kaggle.com/datasets/ahmettademir/enb2012
 
 # Requirements:
