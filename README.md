@@ -148,8 +148,8 @@ Reference from kaggle: https://www.kaggle.com/datasets/ahmettademir/enb2012
 Pandas
 Numpy
 Matplotlib 
-tensorflow 
-keras
+Tensorflow 
+Keras
 
 # programming languages:
 Python
